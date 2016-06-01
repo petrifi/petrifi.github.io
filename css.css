@@ -7,6 +7,10 @@ body {
   text-align: center;
 }
 
-#logo {
+#header {
+  text-align: center;
+}
+#banner {
   padding: 10px;
+  height: 100px;
 }
