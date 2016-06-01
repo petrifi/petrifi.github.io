@@ -1,5 +1,5 @@
 body {
-  padding-top: 50px;
+  padding-top: 10px;
   background: #232323;
 }
 .starter-template {
@@ -11,6 +11,16 @@ body {
   text-align: center;
 }
 #banner {
-  padding: 10px;
+  padding: 0px;
   height: 300px;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
 }
